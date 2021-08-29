@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The scss source files are available in the pro version.
+=======
+The scss source files are available in the pro version.
+>>>>>>> 59ddf453a5c1886cce0e517466f9179ef7c4a907
